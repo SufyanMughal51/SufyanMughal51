@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "client-7681",
+    "client-7681": "client-7681",
+    "6amtech": "efood-web"
+  },
+  "targets": {}
+}

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Catrina Fresh Mex</string>
+    <string name="facebook_app_id">928549225006136</string>
+    <string name="fb_login_protocol_scheme">fb928549225006136</string>
+    <string name="facebook_client_token">8cdd1f4112f14d33a1d725814e62e06b</string>
+</resources>
